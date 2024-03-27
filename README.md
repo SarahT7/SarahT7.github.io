@@ -1,7 +1,6 @@
-# portfolio-part-4-SarahT7
-portfolio-part-4-SarahT7 created by GitHub Classroom
+# COMP2200 - Data Science - Final Project
 
-This is my GitHub repository for COMP2200 Portfolio 4.
+This is my GitHub repository for my COMP2200 Final Project.
 
 I have chosen to analyse a dataset from the World Development Indicators database produced by The World Bank.
 
