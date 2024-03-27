@@ -1,4 +1,4 @@
-# COMP2200 - Data Science - Final Project
+# Data Science - Final Project
 
 This is my GitHub repository for my COMP2200 Final Project.
 
